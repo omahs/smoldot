@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["decode_grandpa","decode_partial_grandpa"],"struct":["Error","GrandpaJustification","GrandpaJustificationRef","Precommit","PrecommitRef","PrecommitsRef","PrecommitsRefIter","VotesAncestriesIter"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ConfigConsensus","Error","SuccessConsensus","Verify"],"fn":["verify"],"struct":["Config","LogEmit","OffchainStorageSet","RuntimeCompilation","StorageClosestDescendantMerkleValue","StorageGet","StorageNextKey","Success"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["decode_grandpa_commit","decode_partial_grandpa_commit"],"struct":["CommitMessageRef","CompactCommitRef","Error","UnsignedPrecommitRef"]};

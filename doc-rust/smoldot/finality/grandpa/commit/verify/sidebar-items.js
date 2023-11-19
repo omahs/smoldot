@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Error","InProgress"],"fn":["verify"],"struct":["Config","IsAuthority","IsParent"]};

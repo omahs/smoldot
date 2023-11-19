@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["CommitVerifyError","FinalityVerifyError","HeaderVerifyError","HeaderVerifySuccess","JustificationVerifyError","RemovedBlockType","SetFinalizedError"],"struct":["BlockAccess","Config","FinalityApply","NonFinalizedTree","RemovedBlock","SetFinalizedBlockIter","VerifiedHeader"]};
